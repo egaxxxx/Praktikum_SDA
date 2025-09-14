@@ -2,8 +2,6 @@
 
 using namespace std;
 
-// --- FUNGSI-FUNGSI BANTUAN UNTUK SOAL 1 ---
-
 void tampilkanArray(int *arr, int size) {
     cout << "[ ";
     for (int i = 0; i < size; i++) {
@@ -23,8 +21,6 @@ void balikArray(int *arr, int size) {
         akhir--;
     }
 }
-
-// --- FUNGSI UTAMA SOAL 1 ---
 
 void soalSatu() {
     cout << "\n+-----------------------------------------------+\n";

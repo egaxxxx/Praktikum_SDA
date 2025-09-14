@@ -1,9 +1,8 @@
 #include <iostream>
-#include <iomanip> // Diperlukan untuk setw
+#include <iomanip>
 
 using namespace std;
 
-// --- FUNGSI UTAMA SOAL 2 ---
 
 void soalDua() {
     cout << "\n+--------------------------------------+\n";

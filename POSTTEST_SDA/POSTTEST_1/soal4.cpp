@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// --- FUNGSI BANTUAN UNTUK SOAL 4 ---
 
 void tukarNilai(int &a, int &b) {
     int temp = a;
@@ -10,7 +9,6 @@ void tukarNilai(int &a, int &b) {
     b = temp;
 }
 
-// --- FUNGSI UTAMA SOAL 4 ---
 
 void soalEmpat() {
     cout << "\n+--------------------------------------+\n";
